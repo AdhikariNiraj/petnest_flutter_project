@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410599463243",
+    "project_id": "petnest2-2861c",
+    "storage_bucket": "petnest2-2861c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410599463243:android:c9b315e63296261f3d70ce",
+        "android_client_info": {
+          "package_name": "com.example.petnest_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj__RHSZ3n6oC3fwjPGfgW2oTrU_xYZYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
